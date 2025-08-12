@@ -18,5 +18,10 @@ public class Fibonacci {
                 b = c;
             }
         }
+
+        System.out.println();
+        int d = 5;
+        System.out.println(d--);
+        System.out.println(--d);
     }
 }
